@@ -1,8 +1,8 @@
 {
   "name": "Mobile-Sandbox",
   "version": "1.0.0",
-  "description": "Mobile Sanbox scripts",
-  "main": "index.js",
-  "author": "TheLonelyAstronaut",
+  "description": "Mobile sandbox for different technologies ",
+  "repository": "https://github.com/TheLonelyAstronaut/Mobile-Sandbox.git",
+  "author": "孤独な 宇宙飛行士",
   "license": "MIT"
 }
