@@ -1,0 +1,12 @@
+[submodule "Android-Sandbox"]
+	path = Android-Sandbox
+	url = https://github.com/TheLonelyAstronaut/Android-Sandbox.git
+[submodule "React-Native-Sandbox"]
+	path = React-Native-Sandbox
+	url = https://github.com/TheLonelyAstronaut/React-Native-Sandbox.git
+[submodule "Flutter-Sandbox"]
+	path = Flutter-Sandbox
+	url = https://github.com/TheLonelyAstronaut/Flutter-Sandbox.git
+[submodule "iOS-Sandbox"]
+	path = iOS-Sandbox
+	url = https://github.com/TheLonelyAstronaut/iOS-Sandbox.git

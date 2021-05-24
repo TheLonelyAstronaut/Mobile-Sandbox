@@ -1,0 +1,8 @@
+{
+  "name": "Mobile-Sandbox",
+  "version": "1.0.0",
+  "description": "Mobile Sanbox scripts",
+  "main": "index.js",
+  "author": "TheLonelyAstronaut",
+  "license": "MIT"
+}
